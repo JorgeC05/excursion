@@ -1,3 +1,6 @@
+*{
+  margin-top: 20px;
+}
 body{
   font-family: Verdana;
   font-weight: normal;
@@ -5,14 +8,30 @@ body{
 
   background-color: black;
   color: white;
+
+}
+
+h2{
+  font-weight: 300;
+  font-size: 42px;
 }
 
 header h1{
   font-size: 50px;
 }
 
-header a{
+a{
   font-size: 16px;
 
   color: aquamarine;
+}
+
+p{
+  font-size: 21px;
+
+  color: grey;
+}
+
+.right{
+  text-align: right;
 }
